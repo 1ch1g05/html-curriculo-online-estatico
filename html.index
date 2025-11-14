@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet"href="style.css">
+<title>Meu Currículo</title>
+</head>
+<body>
+<header>
+  <h1>
+    Maria Anthônia Vital
+  </h1>
+  <p>
+    Número de celular & Whatsapp: +55 (81)99556-8143
+  </p>
+  <p>
+    E-mail: kookieismineandsuga@gmail.com
+  </p>
+  <p>
+    Linkedln: <a href=""></a>
+  </p>
+  <p>
+    Github: <a href=""></a>
+  </p>
+</header>
+  <section>
+    <div class="perfilprofissional">
+      <section>
+        <h3>
+          Nenhuma experiência profissional.
+        </h3>
+        <div class="educação">
+          <h3>
+            Ensino Regular
+          </h3>
+          <ul>
+            <li>Escola EREFM Deputado Oscar Carneiro</li>
+            <li>Escola Joaquim Amazonas</li>
+          </ul>
+          <h3>
+            Ensino Superior
+          </h3>
+          <ul>
+            <li>Faculdade Descomplica Digital</li>
+          </ul>
+          <h3>
+            Faculdade Descomplica Digital - Bacharelado em Ciência Da Computação
+          </h3>
+          <p>
+            Sexto Período, aprendendo atualmente Ciência de Dados Avançado, Programação de Jogos 2d pelo Spine.
+          </p>
+        </div>
+      </section>
+      <div class="habilidades">
+        <h4>
+          Soft Skills
+        </h4>
+        <ul>
+          <li>Comunicação direta e técnica;</li>
+          <li>Focada em trazer resultados;</li>
+        </ul>
+        <h4>
+          Hard Skills
+        </h4>
+        <ul>
+          <li>Conhecimento avançado em HTML5, CSS e JavaScript;</li>
+        </ul>
+      </div>
+    </div>
+    <footer>
+      <p>
+        Todos os direitos reservados à Maria Anthônia Vital. 
+      </p>
+    </footer>
+  </section>
+</body>
+</html>
